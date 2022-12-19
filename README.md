@@ -22,6 +22,7 @@ AI Basic Implementations
 5. RNNs
     - 5-1. Simple RNN (Basic)
     - 5-2. LSTM
+    - 5-3. LSTM, Seq2Seq (Scratch)
 6. Transformers
     - 6-1. Transformer (Scratch)
     - 6-2. Transformer (hugging-face)
