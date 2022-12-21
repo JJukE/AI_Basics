@@ -23,10 +23,13 @@ AI Basic Implementations
     - 5-1. Simple RNN (Basic)
     - 5-2. LSTM
     - 5-3. LSTM, Seq2Seq (Scratch)
-6. Transformers
-    - 6-1. Transformer (Scratch)
-    - 6-2. Transformer (hugging-face)
-    - 6-3. BERT fine-tuning
-7. Distributed Learning (Ray, DP, DDP)
-    - 7-1. Distributed Learning
-    - 7-2. Ray
+6. Generative Models
+    - 6-1. Variational Autoencoder (VAE)
+    - 6-2. Generative Adversarial Network (GAN)
+7. Transformers
+    - 7-1. Transformer (Scratch)
+    - 7-2. Transformer (hugging-face)
+    - 7-3. BERT fine-tuning
+8. Distributed Learning (Ray, DP, DDP)
+    - 8-1. Distributed Learning
+    - 8-2. Ray
