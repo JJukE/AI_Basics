@@ -23,6 +23,7 @@ AI Basic Implementations
     - 5-1. Simple RNN (Basic)
     - 5-2. LSTM
     - 5-3. LSTM, Seq2Seq (Scratch)
+    - 5-4. Text Classification Model with RNN, GRU
 6. Generative Models
     - 6-1. Variational Autoencoder (VAE)
     - 6-2. Generative Adversarial Network (GAN)
